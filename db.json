@@ -25,7 +25,6 @@
       "id": "course004",
       "name": "Machine Learning for Beginners",
       "teacher": "Emily Davis",
-      "image_url": "https://example.com/course4.jpg",
       "price": 79.99,
       "description": "An introduction to machine learning algorithms and techniques."
     },
@@ -48,7 +47,6 @@
       "id": "course007",
       "name": "Python Programming for Beginners",
       "teacher": "Daniel Clark",
-      "image_url": "https://example.com/course7.jpg",
       "price": 44.99,
       "description": "A beginner-friendly introduction to Python programming."
     },
@@ -56,7 +54,6 @@
       "id": "course008",
       "name": "Advanced JavaScript Techniques",
       "teacher": "Maria Rodriguez",
-      "image_url": "https://example.com/course8.jpg",
       "price": 69.99,
       "description": "Explore advanced JavaScript concepts and best practices."
     },
