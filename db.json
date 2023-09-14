@@ -1,14 +1,84 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "courses": [
+    {
+      "id": "course001",
+      "name": "Web Development Fundamentals",
+      "teacher": "John Smith",
+      "image_url": "https://example.com/course1.jpg",
+      "price": 49.99,
+      "description": "Learn the basics of web development, including HTML, CSS, and JavaScript."
+    },
+    {
+      "id": "course002",
+      "name": "Introduction to Data Science",
+      "teacher": "Alice Johnson",
+      "image_url": "https://example.com/course2.jpg",
+      "price": 59.99,
+      "description": "Get started with data science, data analysis, and data visualization."
+    },
+    {
+      "id": "course003",
+      "name": "Mobile App Development with React Native",
+      "teacher": "David Brown",
+      "image_url": "https://example.com/course3.jpg",
+      "price": 69.99,
+      "description": "Build cross-platform mobile apps using React Native and JavaScript."
+    },
+    {
+      "id": "course004",
+      "name": "Machine Learning for Beginners",
+      "teacher": "Emily Davis",
+      "image_url": "https://example.com/course4.jpg",
+      "price": 79.99,
+      "description": "An introduction to machine learning algorithms and techniques."
+    },
+    {
+      "id": "course005",
+      "name": "Digital Marketing Mastery",
+      "teacher": "Mark Wilson",
+      "image_url": "https://example.com/course5.jpg",
+      "price": 49.99,
+      "description": "Learn digital marketing strategies, SEO, and social media advertising."
+    },
+    {
+      "id": "course006",
+      "name": "Graphic Design Essentials",
+      "teacher": "Sophia Lee",
+      "image_url": "https://example.com/course6.jpg",
+      "price": 59.99,
+      "description": "Master the fundamentals of graphic design and creative visual communication."
+    },
+    {
+      "id": "course007",
+      "name": "Python Programming for Beginners",
+      "teacher": "Daniel Clark",
+      "image_url": "https://example.com/course7.jpg",
+      "price": 44.99,
+      "description": "A beginner-friendly introduction to Python programming."
+    },
+    {
+      "id": "course008",
+      "name": "Advanced JavaScript Techniques",
+      "teacher": "Maria Rodriguez",
+      "image_url": "https://example.com/course8.jpg",
+      "price": 69.99,
+      "description": "Explore advanced JavaScript concepts and best practices."
+    },
+    {
+      "id": "course009",
+      "name": "Financial Management and Investment",
+      "teacher": "Michael White",
+      "image_url": "https://example.com/course9.jpg",
+      "price": 89.99,
+      "description": "Learn financial planning, investment strategies, and wealth management."
+    },
+    {
+      "id": "course010",
+      "name": "Artificial Intelligence and Robotics",
+      "teacher": "Robert Johnson",
+      "image_url": "https://example.com/course10.jpg",
+      "price": 79.99,
+      "description": "An in-depth exploration of artificial intelligence and robotics technologies."
+    }
+  ]
 }
