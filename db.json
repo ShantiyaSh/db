@@ -4,7 +4,6 @@
       "id": "course001",
       "name": "Web Development Fundamentals",
       "teacher": "John Smith",
-      "image_url": "https://example.com/course1.jpg",
       "price": 49.99,
       "description": "Learn the basics of web development, including HTML, CSS, and JavaScript."
     },
@@ -12,7 +11,6 @@
       "id": "course002",
       "name": "Introduction to Data Science",
       "teacher": "Alice Johnson",
-      "image_url": "https://example.com/course2.jpg",
       "price": 59.99,
       "description": "Get started with data science, data analysis, and data visualization."
     },
@@ -20,7 +18,6 @@
       "id": "course003",
       "name": "Mobile App Development with React Native",
       "teacher": "David Brown",
-      "image_url": "https://example.com/course3.jpg",
       "price": 69.99,
       "description": "Build cross-platform mobile apps using React Native and JavaScript."
     },
@@ -44,7 +41,6 @@
       "id": "course006",
       "name": "Graphic Design Essentials",
       "teacher": "Sophia Lee",
-      "image_url": "https://example.com/course6.jpg",
       "price": 59.99,
       "description": "Master the fundamentals of graphic design and creative visual communication."
     },
@@ -68,7 +64,6 @@
       "id": "course009",
       "name": "Financial Management and Investment",
       "teacher": "Michael White",
-      "image_url": "https://example.com/course9.jpg",
       "price": 89.99,
       "description": "Learn financial planning, investment strategies, and wealth management."
     },
@@ -76,7 +71,6 @@
       "id": "course010",
       "name": "Artificial Intelligence and Robotics",
       "teacher": "Robert Johnson",
-      "image_url": "https://example.com/course10.jpg",
       "price": 79.99,
       "description": "An in-depth exploration of artificial intelligence and robotics technologies."
     }
