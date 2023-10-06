@@ -1,75 +1,214 @@
 {
-  "courses": [
-    {
-      "id": "course001",
-      "name": "Web Development Fundamentals",
-      "teacher": "John Smith",
-      "price": 49.99,
-      "description": "Learn the basics of web development, including HTML, CSS, and JavaScript."
+  "shoes": {
+    "990v5": {
+      "brand": "New Balance",
+      "color": "Grey",
+      "description": "The New Balance 990v5 is a premium running shoe with a focus on comfort and stability.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/990v5.webp?alt=media&token=3731fbc3-0abd-47fc-b950-ec9e2b30d504",
+      "model": "990v5",
+      "price": 175,
+      "rating": 4.7,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 2019
     },
-    {
-      "id": "course002",
-      "name": "Introduction to Data Science",
-      "teacher": "Alice Johnson",
-      "price": 59.99,
-      "description": "Get started with data science, data analysis, and data visualization."
+    "air_force_1": {
+      "brand": "Nike",
+      "color": "White",
+      "description": "The Nike Air Force 1 is an iconic sneaker that has been a streetwear staple for decades.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/air-force-1.webp?alt=media&token=e7657bd6-cb6a-4b26-880e-e8b18f66fe48",
+      "model": "Air Force 1",
+      "price": 100,
+      "rating": 4.8,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 1982
     },
-    {
-      "id": "course003",
-      "name": "Mobile App Development with React Native",
-      "teacher": "David Brown",
-      "price": 69.99,
-      "description": "Build cross-platform mobile apps using React Native and JavaScript."
+    "air_max_270": {
+      "brand": "Nike",
+      "color": "Black/White",
+      "description": "The Nike Air Max 270 is a stylish and comfortable sneaker known for its large Air Max unit in the heel.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/air-max-270.webp?alt=media&token=5db15737-0ec3-4daa-8458-0e9d8224c1f8",
+      "model": "Air Max 270",
+      "price": 120,
+      "rating": 4.5,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 2018
     },
-    {
-      "id": "course004",
-      "name": "Machine Learning for Beginners",
-      "teacher": "Emily Davis",
-      "price": 79.99,
-      "description": "An introduction to machine learning algorithms and techniques."
+    "chuck_taylor_all_star": {
+      "brand": "Converse",
+      "color": "Black",
+      "description": "The Converse Chuck Taylor All Star is a classic basketball shoe turned cultural icon.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/chuck-Taylor.webp?alt=media&token=4061ef07-fe53-4ad1-b948-585690815db1",
+      "model": "Chuck Taylor All Star",
+      "price": 55,
+      "rating": 4.6,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 1917
     },
-    {
-      "id": "course005",
-      "name": "Digital Marketing Mastery",
-      "teacher": "Mark Wilson",
-      "image_url": "https://example.com/course5.jpg",
-      "price": 49.99,
-      "description": "Learn digital marketing strategies, SEO, and social media advertising."
+    "classic_leather": {
+      "brand": "Reebok",
+      "color": "White",
+      "description": "The Reebok Classic Leather is a versatile and comfortable sneaker suitable for various occasions.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/classic-leather.webp?alt=media&token=57364da6-8026-4993-96da-24f991302281",
+      "model": "Classic Leather",
+      "price": 75,
+      "rating": 4,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 1983
     },
-    {
-      "id": "course006",
-      "name": "Graphic Design Essentials",
-      "teacher": "Sophia Lee",
-      "price": 59.99,
-      "description": "Master the fundamentals of graphic design and creative visual communication."
+    "curry_8": {
+      "brand": "Under Armour",
+      "color": "Black/Gold",
+      "description": "The Under Armour Curry 8 is a basketball shoe designed in collaboration with NBA star Stephen Curry.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/curry-8.webp?alt=media&token=c44ea2a6-d8b0-49ac-baf8-a48881392523",
+      "model": "Curry 8",
+      "price": 160,
+      "rating": 4.5,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 2020
     },
-    {
-      "id": "course007",
-      "name": "Python Programming for Beginners",
-      "teacher": "Daniel Clark",
-      "price": 44.99,
-      "description": "A beginner-friendly introduction to Python programming."
+    "gel_kayano_27": {
+      "brand": "ASICS",
+      "color": "Blue/Silver",
+      "description": "The ASICS GEL-Kayano 27 is a high-performance running shoe with advanced cushioning technology.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/gel-kayano-27.webp?alt=media&token=d19a7a09-5f49-4559-8f03-3c1f079eb35d",
+      "model": "GEL-Kayano 27",
+      "price": 160,
+      "rating": 4.6,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 2020
     },
-    {
-      "id": "course008",
-      "name": "Advanced JavaScript Techniques",
-      "teacher": "Maria Rodriguez",
-      "price": 69.99,
-      "description": "Explore advanced JavaScript concepts and best practices."
+    "memory_foam": {
+      "brand": "Skechers",
+      "color": "Black",
+      "description": "The Skechers Memory Foam shoe offers enhanced comfort and support with its memory foam insole.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/memory-foam.webp?alt=media&token=bb53d7e3-9de6-4e59-8ec4-db2b1329fa25",
+      "model": "Memory Foam",
+      "price": 70,
+      "rating": 4.1,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 1992
     },
-    {
-      "id": "course009",
-      "name": "Financial Management and Investment",
-      "teacher": "Michael White",
-      "price": 89.99,
-      "description": "Learn financial planning, investment strategies, and wealth management."
+    "nmd_r1": {
+      "brand": "Adidas",
+      "color": "Black/Red",
+      "description": "The Adidas NMD R1 combines modern design with Boost cushioning for a comfortable and stylish urban sneaker.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/nmd-r1.webp?alt=media&token=905932ac-6d19-4b58-91eb-5b3567e5cb7b",
+      "model": "NMD R1",
+      "price": 130,
+      "rating": 4.4,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 2015
     },
-    {
-      "id": "course010",
-      "name": "Artificial Intelligence and Robotics",
-      "teacher": "Robert Johnson",
-      "price": 79.99,
-      "description": "An in-depth exploration of artificial intelligence and robotics technologies."
+    "old_skool": {
+      "brand": "Vans",
+      "color": "Black/White",
+      "description": "The Vans Old Skool is a skateboarding classic known for its distinctive side stripe.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/old-skool.webp?alt=media&token=45c0d5cc-aef1-4b83-96f5-8aa2a32752d8",
+      "model": "Old Skool",
+      "price": 60,
+      "rating": 4.3,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 1977
+    },
+    "react_element_56": {
+      "brand": "Nike",
+      "color": "Blue/Grey",
+      "description": "The Nike React Element 55 combines modern design with React foam cushioning for a lightweight and comfortable feel.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/react-element-55.webp?alt=media&token=304cc62b-5502-48ef-8cef-5c4704cdedef",
+      "model": "React Element 56",
+      "price": 90,
+      "rating": 4.2,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 2019
+    },
+    "stan_smith": {
+      "brand": "Adidas",
+      "color": "Green/White",
+      "description": "The Adidas Stan Smith is a classic tennis shoe known for its clean and timeless design.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/stan-smith.webp?alt=media&token=5e7d584d-b911-491c-996e-ee35b46de041",
+      "model": "Stan Smith",
+      "price": 80,
+      "rating": 4,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 2016
+    },
+    "suede_classic": {
+      "brand": "Puma",
+      "color": "Blue/White",
+      "description": "The Puma Suede Classic is a timeless sneaker known for its simple yet elegant design.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/suede-classic.webp?alt=media&token=a7adc035-7253-439e-9fd9-f7be6e57d35e",
+      "model": "Suede Classic",
+      "price": 65,
+      "rating": 4.2,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 1968
+    },
+    "ultra_boost": {
+      "brand": "Adidas",
+      "color": "White/Black",
+      "description": "The Adidas Ultra Boost is a premium running shoe featuring Boost cushioning technology for maximum energy return.",
+      "img": "https://firebasestorage.googleapis.com/v0/b/nike-shoes-ba5ff.appspot.com/o/ultra-boost.webp?alt=media&token=de88b906-9ea7-48e1-9909-652359f858ed",
+      "model": "Ultra Boost",
+      "price": 150,
+      "rating": 4.7,
+      "size": [
+        "US 7",
+        "US 8",
+        "US 9"
+      ],
+      "year": 2017
     }
-  ]
+  }
 }
