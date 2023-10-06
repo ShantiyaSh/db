@@ -1,6 +1,6 @@
 {
-  "shoes": {
-    "990v5": {
+  "shoes": [
+    {
       "brand": "New Balance",
       "color": "Grey",
       "description": "The New Balance 990v5 is a premium running shoe with a focus on comfort and stability.",
@@ -8,14 +8,10 @@
       "model": "990v5",
       "price": 175,
       "rating": 4.7,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 2019
     },
-    "air_force_1": {
+    {
       "brand": "Nike",
       "color": "White",
       "description": "The Nike Air Force 1 is an iconic sneaker that has been a streetwear staple for decades.",
@@ -23,14 +19,10 @@
       "model": "Air Force 1",
       "price": 100,
       "rating": 4.8,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 1982
     },
-    "air_max_270": {
+    {
       "brand": "Nike",
       "color": "Black/White",
       "description": "The Nike Air Max 270 is a stylish and comfortable sneaker known for its large Air Max unit in the heel.",
@@ -38,14 +30,10 @@
       "model": "Air Max 270",
       "price": 120,
       "rating": 4.5,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 2018
     },
-    "chuck_taylor_all_star": {
+    {
       "brand": "Converse",
       "color": "Black",
       "description": "The Converse Chuck Taylor All Star is a classic basketball shoe turned cultural icon.",
@@ -53,14 +41,10 @@
       "model": "Chuck Taylor All Star",
       "price": 55,
       "rating": 4.6,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 1917
     },
-    "classic_leather": {
+    {
       "brand": "Reebok",
       "color": "White",
       "description": "The Reebok Classic Leather is a versatile and comfortable sneaker suitable for various occasions.",
@@ -68,14 +52,10 @@
       "model": "Classic Leather",
       "price": 75,
       "rating": 4,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 1983
     },
-    "curry_8": {
+    {
       "brand": "Under Armour",
       "color": "Black/Gold",
       "description": "The Under Armour Curry 8 is a basketball shoe designed in collaboration with NBA star Stephen Curry.",
@@ -83,14 +63,10 @@
       "model": "Curry 8",
       "price": 160,
       "rating": 4.5,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 2020
     },
-    "gel_kayano_27": {
+    {
       "brand": "ASICS",
       "color": "Blue/Silver",
       "description": "The ASICS GEL-Kayano 27 is a high-performance running shoe with advanced cushioning technology.",
@@ -98,14 +74,10 @@
       "model": "GEL-Kayano 27",
       "price": 160,
       "rating": 4.6,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 2020
     },
-    "memory_foam": {
+    {
       "brand": "Skechers",
       "color": "Black",
       "description": "The Skechers Memory Foam shoe offers enhanced comfort and support with its memory foam insole.",
@@ -113,14 +85,10 @@
       "model": "Memory Foam",
       "price": 70,
       "rating": 4.1,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 1992
     },
-    "nmd_r1": {
+    {
       "brand": "Adidas",
       "color": "Black/Red",
       "description": "The Adidas NMD R1 combines modern design with Boost cushioning for a comfortable and stylish urban sneaker.",
@@ -128,14 +96,10 @@
       "model": "NMD R1",
       "price": 130,
       "rating": 4.4,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 2015
     },
-    "old_skool": {
+    {
       "brand": "Vans",
       "color": "Black/White",
       "description": "The Vans Old Skool is a skateboarding classic known for its distinctive side stripe.",
@@ -143,14 +107,10 @@
       "model": "Old Skool",
       "price": 60,
       "rating": 4.3,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 1977
     },
-    "react_element_56": {
+    {
       "brand": "Nike",
       "color": "Blue/Grey",
       "description": "The Nike React Element 55 combines modern design with React foam cushioning for a lightweight and comfortable feel.",
@@ -158,14 +118,10 @@
       "model": "React Element 56",
       "price": 90,
       "rating": 4.2,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 2019
     },
-    "stan_smith": {
+    {
       "brand": "Adidas",
       "color": "Green/White",
       "description": "The Adidas Stan Smith is a classic tennis shoe known for its clean and timeless design.",
@@ -173,14 +129,10 @@
       "model": "Stan Smith",
       "price": 80,
       "rating": 4,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 2016
     },
-    "suede_classic": {
+    {
       "brand": "Puma",
       "color": "Blue/White",
       "description": "The Puma Suede Classic is a timeless sneaker known for its simple yet elegant design.",
@@ -188,14 +140,10 @@
       "model": "Suede Classic",
       "price": 65,
       "rating": 4.2,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 1968
     },
-    "ultra_boost": {
+    {
       "brand": "Adidas",
       "color": "White/Black",
       "description": "The Adidas Ultra Boost is a premium running shoe featuring Boost cushioning technology for maximum energy return.",
@@ -203,12 +151,8 @@
       "model": "Ultra Boost",
       "price": 150,
       "rating": 4.7,
-      "size": [
-        "US 7",
-        "US 8",
-        "US 9"
-      ],
+      "size": ["US 7", "US 8", "US 9"],
       "year": 2017
     }
-  }
+  ]
 }
